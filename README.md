@@ -13,6 +13,6 @@ And so on...
 
 ## How to contribute?
 
-If you encountered any grammatical, code or anything else error, just do a Pull Request, I'll appreciate.
+If you encountered any grammatical, code or anything else error, just do a [Pull Request](), I'll appreciate.
 
-And even if you like to do write a blog post, just let me know.
+And even if you like to write a blog post, just let me know.
