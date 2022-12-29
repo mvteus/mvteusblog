@@ -2,12 +2,12 @@
 
 I'll try my best to keep blogging my studies about DevOps topics, like:
 
-1. Containerization;
-2. CI/CD;
-3. Linux/Unix;
-4. Programming;
-5. Cloud;
-6. Virtualization;
++ Containerization;
++ CI/CD;
++ Linux/Unix;
++ Programming;
++ Cloud;
++ Virtualization;
 
 And so on...
 
@@ -15,4 +15,4 @@ And so on...
 
 If you encountered any grammatical, code or anything else error, just do a [Pull Request](), I'll appreciate.
 
-And even if you like to write a blog post, just let me know.
+And even if you like to write a blog post, just let me know :wink:.
