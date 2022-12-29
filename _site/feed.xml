@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:5556/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:5556/" rel="alternate" type="text/html" /><updated>2022-12-29T09:34:07-03:00</updated><id>http://localhost:5556/feed.xml</id><title type="html">VIRTUAL SCRIBBLE</title><subtitle>Blogging about containerization, CI/CD, Linux/Unix, programming, cloud computing, virtualization, and so on...</subtitle><entry><title type="html">Hello World!</title><link href="http://localhost:5556/random/2022/12/29/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2022-12-29T00:05:53-03:00</published><updated>2022-12-29T00:05:53-03:00</updated><id>http://localhost:5556/random/2022/12/29/hello-world</id><content type="html" xml:base="http://localhost:5556/random/2022/12/29/hello-world.html"><![CDATA[<p>Welcome fellow Internet traveler to my blog.</p>
+
+<p>I’ll try my best to keep blogging my studies about DevOps topics, like:</p>
+
+<ul>
+  <li>Containerization;</li>
+  <li>CI/CD;</li>
+  <li>Linux/Unix;</li>
+  <li>Programming;</li>
+  <li>Cloud;</li>
+  <li>Virtualization;</li>
+</ul>
+
+<p>And so on…</p>
+
+<h2 id="how-to-contribute">How to contribute?</h2>
+
+<p>If you encountered any grammatical, code or anything else error, just do a <a href="https://github.com/mvteus/mvteusblog/pulls">Pull Request</a>, I’ll appreciate.</p>
+
+<p>And even if you like to write a blog post, just let me know.</p>]]></content><author><name></name></author><category term="random" /><summary type="html"><![CDATA[Welcome fellow Internet traveler to my blog.]]></summary></entry></feed>
