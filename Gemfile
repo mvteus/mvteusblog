@@ -34,3 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # GitHub-flavored Emoji plugin for Jekyll
 gem "jemoji"
+
+# Automatically generate post archives by dates, tags, and categories.
+gem "jekyll-archives"

@@ -32,6 +32,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+  - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
